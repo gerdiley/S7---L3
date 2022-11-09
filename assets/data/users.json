@@ -1,0 +1,67 @@
+[
+    {
+        "id" : 1,
+        "name": "Gerardo",
+        "surname": "Di Letizia",
+        "age": 27,
+        "courses": [
+            { 
+                "course": "frontend",
+                "class": "A",
+                "school": "Epicode"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "name": "Marina",
+        "surname": "Rossi",
+        "age": 28,
+        "courses": [
+            { 
+                "course": "backend",
+                "class": "B",
+                "school": "Boolean"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "name": "Angelo",
+        "surname": "Bianchi",
+        "age": 22,
+        "courses": [
+            { 
+                "course": "frontend",
+                "class": "A",
+                "school": "Epicode"
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "name": "Marco",
+        "surname": "Bruni",
+        "age": 29,
+        "courses": [
+            { 
+                "course": "backend",
+                "class": "B",
+                "school": "Boolean"
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "name": "Matteo",
+        "surname": "Mancuso",
+        "age": 25,
+        "courses": [
+            { 
+                "course": "frontend",
+                "class": "B",
+                "school": "Epicode"
+            }
+        ]
+    }
+]
